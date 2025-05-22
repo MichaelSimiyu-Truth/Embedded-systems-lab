@@ -36,4 +36,3 @@ A responsive website for Strathmore University showcasing its vision, mission, a
 - Responsive Design (Flexbox/Grid)
 - Font Awesome Icons
 
-## File Structure
